@@ -1,20 +1,19 @@
 <template>
-
-    <p>hola</p>
+  <p>hola</p>
 </template>
 
 <script>
-  export default {
-        name: 'index'
-        data(){
-
-
-        },
-        methods: {
-            // metodo para hacer algo
-        }
+export default {
+  name: 'index',
+  data() {
+    return {};
+  },
+  methods: {
+    // método para hacer algo
   }
+}
 </script>
-<style>
 
+<style>
+/* Estilos opcionales aquí */
 </style>
