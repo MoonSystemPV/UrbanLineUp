@@ -7,6 +7,11 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxt/icon',
     '@nuxt/image',
-    '@nuxt/scripts'
+    '@nuxt/scripts',
+    '@nuxtjs/tailwindcss'
+  ],
+
+  css: [
+    '@/assets/css/main.css'
   ]
 })
