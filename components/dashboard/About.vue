@@ -20,7 +20,7 @@
           </p>
           
           <NuxtLink to="/sobre-nosotros" class="px-8 py-4 bg-gray-900 text-[#EC9B27] font-bold uppercase hover:bg-[#EC9B27] hover:text-white transition-colors duration-300">
-            Conoce más sobre nosotros
+            Conoce más sobre nosotres
           </NuxtLink>
         </div>
       </div>
